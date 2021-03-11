@@ -2,7 +2,7 @@
 "user":[
   {
     "id": 1,
-    "user": "Rakhat",
+    "user": "rakhat",
     "email": "rakhat@gmail.com",
     "password": "rakhat123"    
   },
@@ -14,7 +14,7 @@
   },
   {
     "id": 3,
-    "user": "eLzhas",
+    "user": "elzhas",
     "email": "elduha@gmail.com",
     "password": "elzhas2003"    
   },
