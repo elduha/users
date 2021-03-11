@@ -4,29 +4,29 @@
     "id": 1,
     "user": "Rakhat",
     "email": "rakhat@gmail.com",
-    "password": "Rakhat123"    
+    "password": "rakhat123"    
   },
   {
     "id": 2,
-    "user": "Madi",
+    "user": "madi",
     "email": "madi9999gmail.com",
     "password": "667Wws17"    
   },
   {
     "id": 3,
-    "user": "ELzhas",
-    "email": "Elduha@gmail.com",
-    "password": "Elzhas2003"    
+    "user": "eLzhas",
+    "email": "elduha@gmail.com",
+    "password": "elzhas2003"    
   },
   {
     "id": 4,
-    "user": "Saksh",
+    "user": "saksh",
     "email": "saksh@mail.ru",
     "password": "sakSh2002"    
   },
   {
     "id": 5,
-    "user": "Sula",
+    "user": "sula",
     "email": "sulabek@gmail.com",
     "password": "Sultan2003"
    }]
