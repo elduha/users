@@ -1,26 +1,31 @@
 {
 "user":[
   {
+    "id": 1,
     "user": "Rakhat",
     "email": "rakhat@gmail.com",
     "password": "Rakhat123"    
   },
   {
+    "id": 667,
     "user": "Madi",
     "email": "madi9999gmail.com",
     "password": "667Wws17"    
   },
   {
+    "id": 3,
     "user": "ELzhas",
     "email": "Elduha@gmail.com",
     "password": "Elzhas2003"    
   },
   {
+    "id": 4,
     "user": "Saksh",
     "email": "saksh@mail.ru",
     "password": "sakSh2002"    
   },
   {
+    "id": 2,
     "user": "Sula",
     "email": "sulabek@gmail.com",
     "password": "Sultan2003"
